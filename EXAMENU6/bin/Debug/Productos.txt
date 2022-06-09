@@ -1,0 +1,10 @@
+
+Nombre del producto: varita sauco
+Descripción: 30 cm, nucleo desconocido.
+Precio del producto: $399.00
+Cantidad de stock: 25
+
+Nombre del producto: carreola
+Descripción: color negro
+Precio del producto: $366.00
+Cantidad de stock: 25

@@ -1,0 +1,7 @@
+C:\Users\asfix\OneDrive\POO u5\ExamenU6\EXAMENU6\bin\Debug\EXAMENU6.exe.config
+C:\Users\asfix\OneDrive\POO u5\ExamenU6\EXAMENU6\bin\Debug\EXAMENU6.exe
+C:\Users\asfix\OneDrive\POO u5\ExamenU6\EXAMENU6\bin\Debug\EXAMENU6.pdb
+C:\Users\asfix\OneDrive\POO u5\ExamenU6\EXAMENU6\obj\Debug\EXAMENU6.csproj.AssemblyReference.cache
+C:\Users\asfix\OneDrive\POO u5\ExamenU6\EXAMENU6\obj\Debug\EXAMENU6.csproj.CoreCompileInputs.cache
+C:\Users\asfix\OneDrive\POO u5\ExamenU6\EXAMENU6\obj\Debug\EXAMENU6.exe
+C:\Users\asfix\OneDrive\POO u5\ExamenU6\EXAMENU6\obj\Debug\EXAMENU6.pdb
